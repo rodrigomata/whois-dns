@@ -1,0 +1,10 @@
+{
+  "name": "whois-dns",
+  "version": "1.0.0",
+  "description": "Script that retrieves nameservers from a domain",
+  "main": "index.js",
+  "repository": "git@github.com:rodrigomata/whois-dns.git",
+  "author": "Rodrigo Mata <rodrigo.mata.ib@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
